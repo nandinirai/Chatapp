@@ -15,7 +15,7 @@ public class ChatMessage {
         this.messageText = messageText;
         this.messgaeUser = messgaeUser;
 
-        messageTime = new Date().getTime()
+        messageTime = new Date().getTime();
     }
 
     public ChatMessage() {

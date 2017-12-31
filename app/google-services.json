@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "261438316520",
+    "firebase_url": "https://chatapp-11833.firebaseio.com",
+    "project_id": "chatapp-11833",
+    "storage_bucket": "chatapp-11833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261438316520:android:bb25e7adc40c6c45",
+        "android_client_info": {
+          "package_name": "com.example.nandini.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261438316520-4e3594d8aq06is5mbictbdbfufkg7s9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nandini.chatapp",
+            "certificate_hash": "61a55dd58c06f93de8269f275759e6823197b1f8"
+          }
+        },
+        {
+          "client_id": "261438316520-k2q6q8seog8s4obspgnjqq96s799elc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH49HVtMJ4VrFaINtVO0u0D6E9iDgifbQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261438316520-k2q6q8seog8s4obspgnjqq96s799elc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
